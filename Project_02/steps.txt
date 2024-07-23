@@ -1,0 +1,2 @@
+after creating env file  we have to create venv using command conda create -p venv python=3.10
+after that we have to activate by using command conda activate venv/
