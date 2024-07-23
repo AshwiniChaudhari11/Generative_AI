@@ -1,0 +1,5 @@
+1)we generated google api key and saved it in file .env
+2)we creted folder in c drive-GenAI_project
+3)under this folder we created another folder- Project_01
+4)then we copied the path of this folder on to the anaconda prompt.
+5)then we change the directory to copied path.then we use the (code .) to open it in the vs code.
